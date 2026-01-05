@@ -1,4 +1,4 @@
-# Hi 👋 I'm Gnanasegaram Suganthy  
+# Hi 👋 I'm Gnanasegaram Sukanthy  
 
 🎓 BSc (Hons) in Information Technology – Horizon Campus, Sri Lanka  
 💻 Full Stack Developer | ML & AI Enthusiast  

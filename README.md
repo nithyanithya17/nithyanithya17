@@ -119,7 +119,7 @@ I enjoy transforming ideas into real-world applications and continuously learnin
 
 ## 📫 Connect With Me
 - 📧 **Email:** gsuganthy17@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/gnanasegaram-sukanthy-0555a02a9  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sukanthy  
 - 💻 **GitHub:** https://github.com/nithyanithya17  
 
 ---

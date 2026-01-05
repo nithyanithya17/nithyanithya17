@@ -44,7 +44,6 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/sukanthy 
-- 💻 GitHub: https://github.com/nithyanithya17
-- E-Mail:gsuganthy17@gmail.com
-
+- 📧 Email: **gsuganthy17@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/gnanasegaram-sukanthy-0555a02a9  
+- 💻 GitHub: https://github.com/nithyanithya17  
